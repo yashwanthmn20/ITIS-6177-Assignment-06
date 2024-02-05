@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "4534",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "2a25",
+      "title": "jjj",
+      "author": "aaa"
+    },
+    {
+      "id": "3b1d",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "5e59",
+      "title": "Fabio ",
+      "author": "Nolasco"
+    },
+    {
+      "id": "d68f",
+      "title": "Yashwanth",
+      "author": "Nagesh"
+    },
+    {
+      "id": "69c4",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "5383",
+      "title": "Yes",
+      "author": "Sir"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "title": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
